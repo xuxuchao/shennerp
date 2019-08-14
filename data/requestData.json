@@ -1,0 +1,8 @@
+{
+  "test_001":
+  {"gridId":"X_Table","pageUrl":"/order/salesOrder/toList"},
+  "test_002":
+  {"gridId":"X_Table","pageUrl":"/purchase/purchasePlanOrder/toList"},
+  "test_003":
+  {"gridId":"X_Table","pageUrl":"/purchase/purchasePlanOrder/toList"}
+}

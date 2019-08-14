@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df72ab04-2c4a-416f-b0f0-082aed87700b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/taijierp_master$get_cookies.coverage" NAME="get_cookies Coverage Results" MODIFIED="1565227332364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/taijierp_master$run.coverage" NAME="run Coverage Results" MODIFIED="1565239923171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/ERP$Unittests_for_test_query_XSGL_test_001.coverage" NAME="Unittests for test_query.XSGL.test_001 Coverage Results" MODIFIED="1565250453650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ERP$run.coverage" NAME="run Coverage Results" MODIFIED="1565272244547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/ERP$Unittests_in_test_query_py.coverage" NAME="Unittests in test_query.py Coverage Results" MODIFIED="1565235849850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ERP$custom_fixtures_demo.coverage" NAME="custom_fixtures_demo Coverage Results" MODIFIED="1565570518720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/ERP$11111.coverage" NAME="11111 Coverage Results" MODIFIED="1565250400014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/ERP$get_cookies.coverage" NAME="get_cookies Coverage Results" MODIFIED="1565253339704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/get_headers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#154#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/operationExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+              <folding>
+                <element signature="e#165#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_query.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="e#165#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/send_mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#162#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/public.py" />
+        <option value="$PROJECT_DIR$/tests/test_logistics.py" />
+        <option value="$PROJECT_DIR$/tests/test_XSGL.py" />
+        <option value="$PROJECT_DIR$/log/getLog.py" />
+        <option value="$PROJECT_DIR$/tests/test_ceshi.py" />
+        <option value="$PROJECT_DIR$/bin/ceshi1.py" />
+        <option value="$PROJECT_DIR$/tests/test_XSGL_query.py" />
+        <option value="$PROJECT_DIR$/logs/2019_04_10.log" />
+        <option value="$PROJECT_DIR$/tests/test_XSZC.py" />
+        <option value="$PROJECT_DIR$/base/get_Token.py" />
+        <option value="$PROJECT_DIR$/utils/operationExcel.py" />
+        <option value="$PROJECT_DIR$/config/log.py" />
+        <option value="$PROJECT_DIR$/report/修仙.py" />
+        <option value="$PROJECT_DIR$/config/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/tests/test_xszc.py" />
+        <option value="$PROJECT_DIR$/base/23333.py" />
+        <option value="$PROJECT_DIR$/utils/operationJson.py" />
+        <option value="$PROJECT_DIR$/utils/excel_data.py" />
+        <option value="$PROJECT_DIR$/base/11111.py" />
+        <option value="$PROJECT_DIR$/base/get_cookies.py" />
+        <option value="$PROJECT_DIR$/data/requestData.json" />
+        <option value="$PROJECT_DIR$/base/method.py" />
+        <option value="$PROJECT_DIR$/tests/test_query.py" />
+        <option value="$PROJECT_DIR$/config/send_mail.py" />
+        <option value="$PROJECT_DIR$/base/get_headers.py" />
+        <option value="$PROJECT_DIR$/base/custom_fixtures_demo.py" />
+        <option value="$PROJECT_DIR$/bin/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1698" />
+    <option name="y" value="51" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="神农ERP接口自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taijierp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anxia\PycharmProjects\taijierp-master\base" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化\tests" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化\tests\test_query\XSGL" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anxia\PycharmProjects\taijierp-master\base" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化\tests" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化\data" />
+      <recent name="C:\Users\Administrator\PycharmProjects\太极ERP接口自动化\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.custom_fixtures_demo">
+    <configuration name="11111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="神农ERP接口自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/11111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="custom_fixtures_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="神农ERP接口自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/custom_fixtures_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="神农ERP接口自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/get_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="神农ERP接口自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_query.XSGL.test_001" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="神农ERP接口自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_query.XSGL.test_001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.get_cookies" />
+      <item itemvalue="Python.11111" />
+      <item itemvalue="Python tests.Unittests for test_query.XSGL.test_001" />
+      <item itemvalue="Python.custom_fixtures_demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.custom_fixtures_demo" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.get_cookies" />
+        <item itemvalue="Python tests.Unittests for test_query.XSGL.test_001" />
+        <item itemvalue="Python.11111" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df72ab04-2c4a-416f-b0f0-082aed87700b" name="Default" comment="" />
+      <created>1554339880347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554339880347</updated>
+      <workItem from="1565157170969" duration="17895000" />
+      <workItem from="1565240778404" duration="11045000" />
+      <workItem from="1565263358340" duration="6865000" />
+      <workItem from="1565568924810" duration="3794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 13m 51s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 14m 33s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 15m 59s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 22m 16s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 25m 03s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 27m 50s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 44m 47s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 45m 48s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 47m 17s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_query_XSGL_test_001 - 2019.08.08 at 15h 47m 34s.xml">
+      <configuration name="Unittests for test_query.XSGL.test_001" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39599000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49841937" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41170096" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31527627" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4073673" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11889036" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25884017" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31541726" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bin/all.log" />
+    <entry file="file://$PROJECT_DIR$/log/getLog.py" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-09 09_25_26.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-09 09_26_58.log" />
+    <entry file="file://$PROJECT_DIR$/bin/1.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-09 09_34_09.log" />
+    <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_ceshi.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3banben/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ceshi1.py" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-09 23_19_10.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-09 15_27_47.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-10 08_08_08.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-10 08_08_26.log" />
+    <entry file="file://$PROJECT_DIR$/log/2019-04-10 09_03_23.log" />
+    <entry file="file://$PROJECT_DIR$/config/log_test.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019-04-10 14_37_04.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019-04-10 14_40_13.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019-04-10 14_42_20.log" />
+    <entry file="file://$PROJECT_DIR$/bin/new.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019_04_10.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019_04_11.log" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium-3.14.1-py3.7.egg/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://$PROJECT_DIR$/report/修仙.py" />
+    <entry file="file://$PROJECT_DIR$/logs/2019_04_12.log" />
+    <entry file="file://$PROJECT_DIR$/tests/test_xszc.py" />
+    <entry file="file://$PROJECT_DIR$/base/get_Token.py" />
+    <entry file="file://$PROJECT_DIR$/logs/2019_08_07.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="405">
+          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/23333.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5708">
+          <caret line="899" column="20" lean-forward="true" selection-start-line="899" selection-start-column="20" selection-end-line="899" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/11111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="82" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/神农erp测试报告_2019-08-08 16_33_51.html" />
+    <entry file="file://$PROJECT_DIR$/base/get_cookies.py" />
+    <entry file="file://$PROJECT_DIR$/config/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operationJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#164#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/excel_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="525" column="35" lean-forward="true" selection-start-line="525" selection-start-column="35" selection-end-line="525" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2019_08_08.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="709">
+          <caret line="316" column="55" selection-start-line="316" selection-start-column="55" selection-end-line="316" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/requestData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#156#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/send_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#162#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operationExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <element signature="e#165#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/custom_fixtures_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/get_headers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#165#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#154#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

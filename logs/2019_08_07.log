@@ -1,0 +1,63 @@
+[2019-08-07 20:36:27,341] - log.py] - INFO: ---测试开始----
+[2019-08-07 20:36:27,368] - log.py] - INFO: test_001 start
+[2019-08-07 20:36:27,368] - log.py] - INFO: title：修改密码
+[2019-08-07 20:36:27,369] - log.py] - INFO: url: https://erp.stage.ybm100.com//index/changePassword
+[2019-08-07 20:36:27,370] - log.py] - INFO: expect: "code":200
+[2019-08-07 20:36:27,371] - log.py] - INFO: result：
+[2019-08-07 20:36:27,371] - log.py] - INFO: ----测试结束----
+[2019-08-07 20:40:40,208] - log.py] - INFO: ---测试开始----
+[2019-08-07 20:40:40,227] - log.py] - INFO: test_001 start
+[2019-08-07 20:40:40,229] - log.py] - INFO: title：修改密码
+[2019-08-07 20:40:40,230] - log.py] - INFO: url: https://erp.stage.ybm100.com//index/changePassword
+[2019-08-07 20:40:40,231] - log.py] - INFO: expect: "code":200
+[2019-08-07 20:40:40,232] - log.py] - INFO: result：
+[2019-08-07 20:40:40,233] - log.py] - INFO: ----测试结束----
+[2019-08-07 20:43:26,741] - log.py] - INFO: ---测试开始----
+[2019-08-07 20:43:28,769] - log.py] - INFO: test_001 start
+[2019-08-07 20:43:28,770] - log.py] - INFO: title：修改密码
+[2019-08-07 20:43:28,770] - log.py] - INFO: url: https://erp.stage.ybm100.com//index/changePassword
+[2019-08-07 20:43:28,771] - log.py] - INFO: expect: "code":200
+[2019-08-07 20:43:28,772] - log.py] - INFO: result：
+[2019-08-07 20:43:28,772] - log.py] - INFO: ----测试结束----
+[2019-08-07 20:48:59,651] - log.py] - INFO: ---测试开始----
+[2019-08-07 20:49:01,677] - log.py] - INFO: test_001 start
+[2019-08-07 20:49:01,678] - log.py] - INFO: title：修改密码
+[2019-08-07 20:49:01,678] - log.py] - INFO: url: https://erp.stage.ybm100.com//index/changePassword
+[2019-08-07 20:49:01,679] - log.py] - INFO: expect: "code":200
+[2019-08-07 20:49:01,680] - log.py] - INFO: result：
+[2019-08-07 20:49:01,681] - log.py] - INFO: ----测试结束----
+[2019-08-07 21:40:26,224] - log.py] - INFO: ---测试开始----
+[2019-08-07 21:40:26,241] - log.py] - INFO: test_001 start
+[2019-08-07 21:40:26,241] - log.py] - INFO: title：修改密码
+[2019-08-07 21:40:26,242] - log.py] - INFO: url: https://erp.stage.ybm100.com//index/changePassword
+[2019-08-07 21:40:26,242] - log.py] - INFO: expect: "code":200
+[2019-08-07 21:40:26,243] - log.py] - INFO: result：
+[2019-08-07 21:40:26,244] - log.py] - INFO: ----测试结束----
+[2019-08-07 21:41:27,045] - log.py] - INFO: ---测试开始----
+[2019-08-07 21:41:27,062] - log.py] - INFO: test_001 start
+[2019-08-07 21:41:27,062] - log.py] - INFO: title：修改密码
+[2019-08-07 21:41:27,063] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-07 21:41:27,064] - log.py] - INFO: expect: "code":200
+[2019-08-07 21:41:27,064] - log.py] - INFO: result：
+[2019-08-07 21:41:27,065] - log.py] - INFO: ----测试结束----
+[2019-08-07 21:46:47,026] - log.py] - INFO: ---测试开始----
+[2019-08-07 21:46:47,043] - log.py] - INFO: test_001 start
+[2019-08-07 21:46:47,043] - log.py] - INFO: title：修改密码
+[2019-08-07 21:46:47,044] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-07 21:46:47,045] - log.py] - INFO: expect: "code":200
+[2019-08-07 21:46:47,046] - log.py] - INFO: result：
+[2019-08-07 21:46:47,046] - log.py] - INFO: ----测试结束----
+[2019-08-07 21:47:18,752] - log.py] - INFO: ---测试开始----
+[2019-08-07 21:47:18,770] - log.py] - INFO: test_001 start
+[2019-08-07 21:47:18,770] - log.py] - INFO: title：修改密码
+[2019-08-07 21:47:18,771] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-07 21:47:18,772] - log.py] - INFO: expect: "code":200
+[2019-08-07 21:47:18,772] - log.py] - INFO: result：
+[2019-08-07 21:47:18,773] - log.py] - INFO: ----测试结束----
+[2019-08-07 21:59:17,635] - log.py] - INFO: ---测试开始----
+[2019-08-07 21:59:17,653] - log.py] - INFO: test_001 start
+[2019-08-07 21:59:17,654] - log.py] - INFO: title：修改密码
+[2019-08-07 21:59:17,655] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-07 21:59:17,656] - log.py] - INFO: expect: "code":200
+[2019-08-07 21:59:17,657] - log.py] - INFO: result：
+[2019-08-07 21:59:17,658] - log.py] - INFO: ----测试结束----

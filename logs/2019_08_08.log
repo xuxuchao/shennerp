@@ -1,0 +1,454 @@
+[2019-08-08 09:18:51,973] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:18:51,991] - log.py] - INFO: test_001 start
+[2019-08-08 09:18:51,991] - log.py] - INFO: title：修改密码
+[2019-08-08 09:18:51,992] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:18:51,993] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:18:51,993] - log.py] - INFO: result：
+[2019-08-08 09:18:51,994] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:26:37,258] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:26:37,307] - log.py] - INFO: test_001 start
+[2019-08-08 09:26:37,308] - log.py] - INFO: title：修改密码
+[2019-08-08 09:26:37,316] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:26:37,317] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:26:37,317] - log.py] - INFO: result：
+[2019-08-08 09:26:37,318] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:26:39,879] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:26:39,896] - log.py] - INFO: test_001 start
+[2019-08-08 09:26:39,897] - log.py] - INFO: title：修改密码
+[2019-08-08 09:26:39,898] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:26:39,898] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:26:39,899] - log.py] - INFO: result：
+[2019-08-08 09:26:39,899] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:32:48,110] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:32:48,127] - log.py] - INFO: test_001 start
+[2019-08-08 09:32:48,128] - log.py] - INFO: title：修改密码
+[2019-08-08 09:32:48,129] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:32:48,129] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:32:48,130] - log.py] - INFO: result：
+[2019-08-08 09:32:48,131] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:45:58,017] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:45:58,034] - log.py] - INFO: test_001 start
+[2019-08-08 09:45:58,035] - log.py] - INFO: title：修改密码
+[2019-08-08 09:45:58,036] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:45:58,036] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:45:58,037] - log.py] - INFO: result：
+[2019-08-08 09:45:58,038] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:47:34,420] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:47:34,438] - log.py] - INFO: test_001 start
+[2019-08-08 09:47:34,439] - log.py] - INFO: title：修改密码
+[2019-08-08 09:47:34,440] - log.py] - INFO: url: https://erp.test.ybm100.com/index/changePassword
+[2019-08-08 09:47:34,440] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:47:34,441] - log.py] - INFO: result：
+[2019-08-08 09:47:34,442] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:48:40,033] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:48:40,051] - log.py] - INFO: test_001 start
+[2019-08-08 09:48:40,051] - log.py] - INFO: title：修改密码
+[2019-08-08 09:48:40,052] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 09:48:40,053] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:48:40,053] - log.py] - INFO: result：
+[2019-08-08 09:48:40,054] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:51:16,044] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:51:16,061] - log.py] - INFO: test_001 start
+[2019-08-08 09:51:16,062] - log.py] - INFO: title：修改密码
+[2019-08-08 09:51:16,063] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 09:51:16,063] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:51:16,064] - log.py] - INFO: result：
+[2019-08-08 09:51:16,065] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:51:55,074] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:51:55,092] - log.py] - INFO: test_001 start
+[2019-08-08 09:51:55,093] - log.py] - INFO: title：修改密码
+[2019-08-08 09:51:55,093] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 09:51:55,094] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:51:55,095] - log.py] - INFO: result：
+[2019-08-08 09:51:55,095] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:57:19,526] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:57:19,544] - log.py] - INFO: test_001 start
+[2019-08-08 09:57:19,545] - log.py] - INFO: title：修改密码
+[2019-08-08 09:57:19,546] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 09:57:19,547] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:57:19,547] - log.py] - INFO: result：
+[2019-08-08 09:57:19,548] - log.py] - INFO: ----测试结束----
+[2019-08-08 09:58:06,720] - log.py] - INFO: ---测试开始----
+[2019-08-08 09:58:06,737] - log.py] - INFO: test_001 start
+[2019-08-08 09:58:06,738] - log.py] - INFO: title：修改密码
+[2019-08-08 09:58:06,739] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 09:58:06,740] - log.py] - INFO: expect: "code":200
+[2019-08-08 09:58:06,740] - log.py] - INFO: result：
+[2019-08-08 09:58:06,741] - log.py] - INFO: ----测试结束----
+[2019-08-08 10:52:24,096] - log.py] - INFO: ---测试开始----
+[2019-08-08 10:52:24,114] - log.py] - INFO: test_001 start
+[2019-08-08 10:52:24,114] - log.py] - INFO: title：修改密码
+[2019-08-08 10:52:24,115] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 10:52:24,116] - log.py] - INFO: expect: "code":200
+[2019-08-08 10:52:24,116] - log.py] - INFO: result：
+[2019-08-08 10:52:24,117] - log.py] - INFO: ----测试结束----
+[2019-08-08 10:54:20,085] - log.py] - INFO: ---测试开始----
+[2019-08-08 10:54:20,103] - log.py] - INFO: test_001 start
+[2019-08-08 10:54:20,104] - log.py] - INFO: title：修改密码
+[2019-08-08 10:54:20,104] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 10:54:20,105] - log.py] - INFO: expect: "code":1
+[2019-08-08 10:54:20,106] - log.py] - INFO: result：
+[2019-08-08 10:54:20,106] - log.py] - INFO: ----测试结束----
+[2019-08-08 10:56:09,490] - log.py] - INFO: ---测试开始----
+[2019-08-08 10:56:09,508] - log.py] - INFO: test_001 start
+[2019-08-08 10:56:09,508] - log.py] - INFO: title：修改密码
+[2019-08-08 10:56:09,509] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 10:56:09,510] - log.py] - INFO: expect: "code":1
+[2019-08-08 10:56:09,510] - log.py] - INFO: result：
+[2019-08-08 10:56:09,511] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:01:53,019] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:01:53,039] - log.py] - INFO: test_001 start
+[2019-08-08 11:01:53,040] - log.py] - INFO: title：修改密码
+[2019-08-08 11:01:53,040] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:01:53,041] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:01:53,042] - log.py] - INFO: result：
+[2019-08-08 11:01:53,042] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:02:25,134] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:02:25,152] - log.py] - INFO: test_001 start
+[2019-08-08 11:02:25,153] - log.py] - INFO: title：修改密码
+[2019-08-08 11:02:25,154] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:02:25,154] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:02:25,155] - log.py] - INFO: result：
+[2019-08-08 11:02:25,156] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:37:09,020] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:37:09,030] - log.py] - INFO: test_001 start
+[2019-08-08 11:37:09,031] - log.py] - INFO: title：修改密码
+[2019-08-08 11:37:09,032] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:37:09,032] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:37:09,033] - log.py] - INFO: result：pass
+[2019-08-08 11:37:09,034] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:38:24,773] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:38:24,790] - log.py] - INFO: test_001 start
+[2019-08-08 11:38:24,790] - log.py] - INFO: title：修改密码
+[2019-08-08 11:38:24,791] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:38:24,792] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:38:24,792] - log.py] - INFO: result：
+[2019-08-08 11:38:24,793] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:45:15,706] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:45:15,722] - log.py] - INFO: test_001 start
+[2019-08-08 11:45:15,723] - log.py] - INFO: title：修改密码
+[2019-08-08 11:45:15,724] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:45:15,724] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:45:15,725] - log.py] - INFO: result：
+[2019-08-08 11:45:15,726] - log.py] - INFO: ----测试结束----
+[2019-08-08 11:49:49,427] - log.py] - INFO: ---测试开始----
+[2019-08-08 11:49:49,443] - log.py] - INFO: test_001 start
+[2019-08-08 11:49:49,444] - log.py] - INFO: title：修改密码
+[2019-08-08 11:49:49,445] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 11:49:49,445] - log.py] - INFO: expect: "code":1
+[2019-08-08 11:49:49,446] - log.py] - INFO: result：
+[2019-08-08 11:49:49,447] - log.py] - INFO: ----测试结束----
+[2019-08-08 12:01:50,084] - log.py] - INFO: ---测试开始----
+[2019-08-08 12:01:50,102] - log.py] - INFO: test_001 start
+[2019-08-08 12:01:50,102] - log.py] - INFO: title：修改密码
+[2019-08-08 12:01:50,103] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 12:01:50,104] - log.py] - INFO: expect: "code":1
+[2019-08-08 12:01:50,104] - log.py] - INFO: result：
+[2019-08-08 12:01:50,105] - log.py] - INFO: ----测试结束----
+[2019-08-08 12:45:38,172] - log.py] - INFO: ---测试开始----
+[2019-08-08 12:45:38,188] - log.py] - INFO: test_001 start
+[2019-08-08 12:45:38,189] - log.py] - INFO: title：修改密码
+[2019-08-08 12:45:38,190] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 12:45:38,190] - log.py] - INFO: expect: "code":1
+[2019-08-08 12:45:38,191] - log.py] - INFO: result：
+[2019-08-08 12:45:38,192] - log.py] - INFO: ----测试结束----
+[2019-08-08 12:47:07,699] - log.py] - INFO: ---测试开始----
+[2019-08-08 12:47:07,719] - log.py] - INFO: test_001 start
+[2019-08-08 12:47:07,720] - log.py] - INFO: title：修改密码
+[2019-08-08 12:47:07,720] - log.py] - INFO: url: https://erp.test.ybm100.com/gsp/transport/saveCarrier
+[2019-08-08 12:47:07,721] - log.py] - INFO: expect: "code":1
+[2019-08-08 12:47:07,722] - log.py] - INFO: result：
+[2019-08-08 12:47:07,723] - log.py] - INFO: ----测试结束----
+[2019-08-08 12:48:41,111] - log.py] - INFO: ---测试开始----
+[2019-08-08 12:48:41,129] - log.py] - INFO: test_001 start
+[2019-08-08 12:48:41,130] - log.py] - INFO: title：修改密码
+[2019-08-08 12:48:41,130] - log.py] - INFO: url: https://erp.stage.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 12:48:41,131] - log.py] - INFO: expect: "code":1
+[2019-08-08 12:48:41,132] - log.py] - INFO: result：
+[2019-08-08 12:48:41,132] - log.py] - INFO: ----测试结束----
+[2019-08-08 12:52:03,541] - log.py] - INFO: ---测试开始----
+[2019-08-08 12:52:03,557] - log.py] - INFO: test_001 start
+[2019-08-08 12:52:03,558] - log.py] - INFO: title：修改密码
+[2019-08-08 12:52:03,559] - log.py] - INFO: url: https://erp.stage.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 12:52:03,559] - log.py] - INFO: expect: "code":1
+[2019-08-08 12:52:03,560] - log.py] - INFO: result：
+[2019-08-08 12:52:03,561] - log.py] - INFO: ----测试结束----
+[2019-08-08 13:13:07,330] - log.py] - INFO: ---测试开始----
+[2019-08-08 13:13:07,349] - log.py] - INFO: test_001 start
+[2019-08-08 13:13:07,350] - log.py] - INFO: title：修改密码
+[2019-08-08 13:13:07,351] - log.py] - INFO: url: https://erp.stage.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 13:13:07,351] - log.py] - INFO: expect: "code":1
+[2019-08-08 13:13:07,352] - log.py] - INFO: result：
+[2019-08-08 13:13:07,353] - log.py] - INFO: ----测试结束----
+[2019-08-08 14:52:09,450] - log.py] - INFO: ---测试开始----
+[2019-08-08 14:52:09,468] - log.py] - INFO: test_001 start
+[2019-08-08 14:52:09,468] - log.py] - INFO: title：修改密码
+[2019-08-08 14:52:09,469] - log.py] - INFO: url: https://erp.stage.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 14:52:09,470] - log.py] - INFO: expect: "code":1
+[2019-08-08 14:52:09,470] - log.py] - INFO: result：
+[2019-08-08 14:52:09,471] - log.py] - INFO: ----测试结束----
+[2019-08-08 15:48:35,656] - log.py] - INFO: ---测试开始----
+[2019-08-08 15:48:35,675] - log.py] - INFO: test_001 start
+[2019-08-08 15:48:35,676] - log.py] - INFO: title：修改密码
+[2019-08-08 15:48:35,677] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 15:48:35,677] - log.py] - INFO: expect: "code":1
+[2019-08-08 15:48:35,678] - log.py] - INFO: result：
+[2019-08-08 15:48:35,678] - log.py] - INFO: ----测试结束----
+[2019-08-08 15:55:25,399] - log.py] - INFO: ---测试开始----
+[2019-08-08 15:55:25,415] - log.py] - INFO: test_001 start
+[2019-08-08 15:55:25,416] - log.py] - INFO: title：修改密码
+[2019-08-08 15:55:25,417] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 15:55:25,417] - log.py] - INFO: expect: "code":0
+[2019-08-08 15:55:25,418] - log.py] - INFO: result：
+[2019-08-08 15:55:25,419] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:08:45,507] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:08:45,518] - log.py] - INFO: test_001 start
+[2019-08-08 16:08:45,519] - log.py] - INFO: title：修改密码
+[2019-08-08 16:08:45,520] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:08:45,520] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:08:45,521] - log.py] - INFO: result：pass
+[2019-08-08 16:08:45,522] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:10:21,928] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:10:21,937] - log.py] - INFO: test_001 start
+[2019-08-08 16:10:21,938] - log.py] - INFO: title：修改密码
+[2019-08-08 16:10:21,939] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:10:21,939] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:10:21,940] - log.py] - INFO: result：pass
+[2019-08-08 16:10:21,940] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:14:22,481] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:14:22,491] - log.py] - INFO: test_001 start
+[2019-08-08 16:14:22,491] - log.py] - INFO: title：修改密码
+[2019-08-08 16:14:22,492] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:14:22,493] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:14:22,493] - log.py] - INFO: result：pass
+[2019-08-08 16:14:22,494] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:14:43,715] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:14:43,725] - log.py] - INFO: test_001 start
+[2019-08-08 16:14:43,725] - log.py] - INFO: title：修改密码
+[2019-08-08 16:14:43,726] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:14:43,726] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:14:43,727] - log.py] - INFO: result：pass
+[2019-08-08 16:14:43,728] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:32:57,209] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:32:57,226] - log.py] - INFO: test_001 start
+[2019-08-08 16:32:57,227] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:32:57,227] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:32:57,228] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:32:57,229] - log.py] - INFO: result：
+[2019-08-08 16:32:57,243] - log.py] - INFO: test_002 start
+[2019-08-08 16:32:57,244] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:32:57,245] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:32:57,245] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:32:57,245] - log.py] - INFO: result：
+[2019-08-08 16:32:57,246] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:33:26,054] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:33:26,072] - log.py] - INFO: test_001 start
+[2019-08-08 16:33:26,073] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:33:26,074] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:33:26,074] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:33:26,075] - log.py] - INFO: result：
+[2019-08-08 16:33:26,090] - log.py] - INFO: test_002 start
+[2019-08-08 16:33:26,090] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:33:26,091] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:33:26,091] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:33:26,092] - log.py] - INFO: result：
+[2019-08-08 16:33:26,093] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:33:51,024] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:33:51,041] - log.py] - INFO: test_001 start
+[2019-08-08 16:33:51,042] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:33:51,042] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:33:51,043] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:33:51,044] - log.py] - INFO: result：
+[2019-08-08 16:33:51,058] - log.py] - INFO: test_002 start
+[2019-08-08 16:33:51,059] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:33:51,059] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:33:51,060] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:33:51,061] - log.py] - INFO: result：
+[2019-08-08 16:33:51,061] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:39:36,886] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:39:36,907] - log.py] - INFO: test_001 start
+[2019-08-08 16:39:36,908] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:39:36,909] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:39:36,909] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:39:36,910] - log.py] - INFO: result：
+[2019-08-08 16:39:36,929] - log.py] - INFO: test_002 start
+[2019-08-08 16:39:36,930] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:39:36,931] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:39:36,931] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:39:36,932] - log.py] - INFO: result：
+[2019-08-08 16:39:36,947] - log.py] - INFO: test_003 start
+[2019-08-08 16:39:36,948] - log.py] - INFO: title：采购入库管理
+[2019-08-08 16:39:36,948] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:39:36,949] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:39:36,950] - log.py] - INFO: result：
+[2019-08-08 16:39:36,950] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:40:04,242] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:40:04,252] - log.py] - INFO: test_001 start
+[2019-08-08 16:40:04,253] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:40:04,254] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:40:04,254] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:40:04,255] - log.py] - INFO: result：pass
+[2019-08-08 16:40:04,263] - log.py] - INFO: test_002 start
+[2019-08-08 16:40:04,264] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:40:04,264] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:40:04,265] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:40:04,266] - log.py] - INFO: result：pass
+[2019-08-08 16:40:04,273] - log.py] - INFO: test_003 start
+[2019-08-08 16:40:04,274] - log.py] - INFO: title：采购入库管理
+[2019-08-08 16:40:04,275] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:40:04,275] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:40:04,276] - log.py] - INFO: result：
+[2019-08-08 16:40:04,276] - log.py] - INFO: ----测试结束----
+[2019-08-08 16:41:09,695] - log.py] - INFO: ---测试开始----
+[2019-08-08 16:41:09,705] - log.py] - INFO: test_001 start
+[2019-08-08 16:41:09,706] - log.py] - INFO: title：采购订单查询
+[2019-08-08 16:41:09,707] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:41:09,707] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:41:09,708] - log.py] - INFO: result：pass
+[2019-08-08 16:41:09,715] - log.py] - INFO: test_002 start
+[2019-08-08 16:41:09,716] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 16:41:09,717] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:41:09,718] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:41:09,718] - log.py] - INFO: result：pass
+[2019-08-08 16:41:09,725] - log.py] - INFO: test_003 start
+[2019-08-08 16:41:09,726] - log.py] - INFO: title：采购入库管理
+[2019-08-08 16:41:09,727] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 16:41:09,728] - log.py] - INFO: expect: "code":0
+[2019-08-08 16:41:09,728] - log.py] - INFO: result：pass
+[2019-08-08 16:41:09,729] - log.py] - INFO: ----测试结束----
+[2019-08-08 18:35:24,970] - log.py] - INFO: ---测试开始----
+[2019-08-08 18:35:24,979] - log.py] - INFO: test_001 start
+[2019-08-08 18:35:24,980] - log.py] - INFO: title：采购订单查询
+[2019-08-08 18:35:24,981] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 18:35:24,981] - log.py] - INFO: expect: "code":0
+[2019-08-08 18:35:24,982] - log.py] - INFO: result：pass
+[2019-08-08 18:35:24,991] - log.py] - INFO: test_002 start
+[2019-08-08 18:35:24,991] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 18:35:24,992] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 18:35:24,993] - log.py] - INFO: expect: "code":0
+[2019-08-08 18:35:24,993] - log.py] - INFO: result：pass
+[2019-08-08 18:35:25,001] - log.py] - INFO: test_003 start
+[2019-08-08 18:35:25,002] - log.py] - INFO: title：采购入库管理
+[2019-08-08 18:35:25,002] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 18:35:25,003] - log.py] - INFO: expect: "code":0
+[2019-08-08 18:35:25,004] - log.py] - INFO: result：pass
+[2019-08-08 18:35:25,004] - log.py] - INFO: ----测试结束----
+[2019-08-08 20:05:21,224] - log.py] - INFO: ---测试开始----
+[2019-08-08 20:05:21,242] - log.py] - INFO: test_001 start
+[2019-08-08 20:05:21,243] - log.py] - INFO: title：采购订单查询
+[2019-08-08 20:05:21,243] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:05:21,244] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:05:21,245] - log.py] - INFO: result：
+[2019-08-08 20:05:21,260] - log.py] - INFO: test_002 start
+[2019-08-08 20:05:21,261] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 20:05:21,262] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:05:21,263] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:05:21,264] - log.py] - INFO: result：
+[2019-08-08 20:05:21,279] - log.py] - INFO: test_003 start
+[2019-08-08 20:05:21,280] - log.py] - INFO: title：采购入库管理
+[2019-08-08 20:05:21,281] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:05:21,282] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:05:21,283] - log.py] - INFO: result：
+[2019-08-08 20:05:21,283] - log.py] - INFO: ----测试结束----
+[2019-08-08 20:44:25,178] - log.py] - INFO: ---测试开始----
+[2019-08-08 20:44:25,195] - log.py] - INFO: test_001 start
+[2019-08-08 20:44:25,196] - log.py] - INFO: title：采购订单查询
+[2019-08-08 20:44:25,196] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:44:25,197] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:44:25,198] - log.py] - INFO: result：
+[2019-08-08 20:44:25,212] - log.py] - INFO: test_002 start
+[2019-08-08 20:44:25,213] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 20:44:25,213] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:44:25,214] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:44:25,215] - log.py] - INFO: result：
+[2019-08-08 20:44:25,231] - log.py] - INFO: test_003 start
+[2019-08-08 20:44:25,232] - log.py] - INFO: title：采购入库管理
+[2019-08-08 20:44:25,233] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:44:25,233] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:44:25,234] - log.py] - INFO: result：
+[2019-08-08 20:44:25,235] - log.py] - INFO: ----测试结束----
+[2019-08-08 20:52:15,547] - log.py] - INFO: ---测试开始----
+[2019-08-08 20:52:15,564] - log.py] - INFO: test_001 start
+[2019-08-08 20:52:15,565] - log.py] - INFO: title：采购订单查询
+[2019-08-08 20:52:15,565] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:52:15,566] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:52:15,567] - log.py] - INFO: result：
+[2019-08-08 20:52:15,580] - log.py] - INFO: test_002 start
+[2019-08-08 20:52:15,581] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 20:52:15,582] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:52:15,583] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:52:15,583] - log.py] - INFO: result：
+[2019-08-08 20:52:15,596] - log.py] - INFO: test_003 start
+[2019-08-08 20:52:15,597] - log.py] - INFO: title：采购入库管理
+[2019-08-08 20:52:15,598] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:52:15,598] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:52:15,599] - log.py] - INFO: result：
+[2019-08-08 20:52:15,599] - log.py] - INFO: ----测试结束----
+[2019-08-08 20:53:01,419] - log.py] - INFO: ---测试开始----
+[2019-08-08 20:53:01,436] - log.py] - INFO: test_001 start
+[2019-08-08 20:53:01,437] - log.py] - INFO: title：采购订单查询
+[2019-08-08 20:53:01,438] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:53:01,438] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:53:01,439] - log.py] - INFO: result：
+[2019-08-08 20:53:01,453] - log.py] - INFO: test_002 start
+[2019-08-08 20:53:01,454] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 20:53:01,455] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:53:01,455] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:53:01,456] - log.py] - INFO: result：
+[2019-08-08 20:53:01,470] - log.py] - INFO: test_003 start
+[2019-08-08 20:53:01,471] - log.py] - INFO: title：采购入库管理
+[2019-08-08 20:53:01,472] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:53:01,472] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:53:01,474] - log.py] - INFO: result：
+[2019-08-08 20:53:01,474] - log.py] - INFO: ----测试结束----
+[2019-08-08 20:54:18,050] - log.py] - INFO: ---测试开始----
+[2019-08-08 20:54:18,067] - log.py] - INFO: test_001 start
+[2019-08-08 20:54:18,068] - log.py] - INFO: title：采购订单查询
+[2019-08-08 20:54:18,069] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:54:18,069] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:54:18,070] - log.py] - INFO: result：
+[2019-08-08 20:54:18,084] - log.py] - INFO: test_002 start
+[2019-08-08 20:54:18,085] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 20:54:18,085] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:54:18,086] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:54:18,087] - log.py] - INFO: result：
+[2019-08-08 20:54:18,100] - log.py] - INFO: test_003 start
+[2019-08-08 20:54:18,101] - log.py] - INFO: title：采购入库管理
+[2019-08-08 20:54:18,101] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 20:54:18,102] - log.py] - INFO: expect: "code":0
+[2019-08-08 20:54:18,103] - log.py] - INFO: result：
+[2019-08-08 20:54:18,103] - log.py] - INFO: ----测试结束----
+[2019-08-08 21:49:53,962] - log.py] - INFO: ---测试开始----
+[2019-08-08 21:49:53,979] - log.py] - INFO: test_001 start
+[2019-08-08 21:49:53,980] - log.py] - INFO: title：采购订单查询
+[2019-08-08 21:49:53,980] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:49:53,981] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:49:53,981] - log.py] - INFO: result：
+[2019-08-08 21:49:53,995] - log.py] - INFO: test_002 start
+[2019-08-08 21:49:53,996] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 21:49:53,997] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:49:53,997] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:49:53,998] - log.py] - INFO: result：
+[2019-08-08 21:49:54,010] - log.py] - INFO: test_003 start
+[2019-08-08 21:49:54,011] - log.py] - INFO: title：采购入库管理
+[2019-08-08 21:49:54,012] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:49:54,013] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:49:54,013] - log.py] - INFO: result：
+[2019-08-08 21:49:54,014] - log.py] - INFO: ----测试结束----
+[2019-08-08 21:50:44,897] - log.py] - INFO: ---测试开始----
+[2019-08-08 21:50:44,914] - log.py] - INFO: test_001 start
+[2019-08-08 21:50:44,914] - log.py] - INFO: title：采购订单查询
+[2019-08-08 21:50:44,915] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:50:44,916] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:50:44,916] - log.py] - INFO: result：
+[2019-08-08 21:50:44,930] - log.py] - INFO: test_002 start
+[2019-08-08 21:50:44,930] - log.py] - INFO: title：采购计划单查询
+[2019-08-08 21:50:44,931] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:50:44,932] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:50:44,932] - log.py] - INFO: result：
+[2019-08-08 21:50:44,945] - log.py] - INFO: test_003 start
+[2019-08-08 21:50:44,946] - log.py] - INFO: title：采购入库管理
+[2019-08-08 21:50:44,947] - log.py] - INFO: url: https://erp.test.ybm100.com/system/queryUserGridInfoList
+[2019-08-08 21:50:44,947] - log.py] - INFO: expect: "code":0
+[2019-08-08 21:50:44,948] - log.py] - INFO: result：
+[2019-08-08 21:50:44,948] - log.py] - INFO: ----测试结束----
